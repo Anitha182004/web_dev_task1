@@ -1,2 +1,3 @@
 # web_dev_task1
-![Screenshot (49)](https://github.com/user-attachments/assets/267bdfc4-8219-4891-90f5-2107b114aafb)
+![image](https://github.com/user-attachments/assets/946843e2-a08b-43c8-a568-05ce6bacacad)
+
